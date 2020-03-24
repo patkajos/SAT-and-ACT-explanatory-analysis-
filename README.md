@@ -39,7 +39,7 @@ You can see the source for the SAT data [here](https://blog.collegevine.com/here
 
 2018 state-by-state average results and participation for the SAT are available in PDF reports [here](https://reports.collegeboard.org/sat-suite-program-results/state-results). 2018 ACT state-by-state mean composite scores and participation rates are [here](http://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf) .
 
-**This data has been compiled into CSV files which are also included in the *data* directory of this repo**
+**This data has been compiled into CSV files which are also included in the *data* directory of this repo.**
 
 ---
 
