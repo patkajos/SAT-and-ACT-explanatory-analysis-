@@ -73,7 +73,7 @@ Here's a link on [how to give a good lightning talk](https://www.semrush.com/blo
 
 ### Submission
 
-**Slides must be submitted to your GitHub submissions repo by Noon on Friday, March, 27. Your Jupyter notebook must be submitted to your GitHub submissions repo by Midnight on Friday, March, 27.**
+**Your Slides and Technical Report must be submitted by Friday, March 27.**
 
 Your technical report will be hosted on GitHub Enterprise. Make sure it includes:
 
@@ -82,6 +82,8 @@ Your technical report will be hosted on GitHub Enterprise. Make sure it includes
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
+
+Submit your materials in the manner requested by your instructor.
 
 ---
 
